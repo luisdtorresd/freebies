@@ -1,2 +1,2 @@
 # freebies
-Aquí encontrarás documentación sobre distintos temas de tecnología.
+Aquí encontrarás documentación sobre distintos aspectos de la tecnología
